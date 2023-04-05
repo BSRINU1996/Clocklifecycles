@@ -16,6 +16,7 @@ class Clock extends Component {
             }
         })
     }
+//     this is the Clock
     render() {
         const { showClock } = this.state;
         return (
